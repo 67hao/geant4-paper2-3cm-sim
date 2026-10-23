@@ -1,0 +1,27 @@
+{
+  "project_name": "2026.22.10_Paper2_MAC_3cm_Geant4",
+  "root_id": "1u-KfL30LafdDyHUhsi9J9GhPBi-wdkcQ",
+  "tiers": {
+    "01_Summary_Excel_Results": "1QEloYxUeIqlmQIZFGsUJns4I-Mt99K3l",
+    "02_Flux_Data": "1FfEMCXbNGxQnmE-vekUSYMWZVdjQWF5A",
+    "03_Simulation_Outputs": "1eVjiZfAbAINGTWxb1PNHdE00Pcphh2sG",
+    "04_Input_Decks": "1FsAA8V8depUZf_dez79CE4i46YUw6dQn",
+    "05_Execution_Logs_and_Benchmarks": "1cfk8pvt53DqHOHiypIVtcHHl-zR-_KOS"
+  },
+  "flux_subfolders": {
+    "S0": "1h1rdpSpKu57DbIKtzNId6zcAN_pUkHQI",
+    "S1": "1SojT8ttk4MZ7onGpCDDAB52pGer42RTA",
+    "S2": "1_iwEhc4itrRPvnx6IKJC28cQoc29Af99",
+    "S3": "1Kpbr5kpcdDcjP-xuIlqAlCsAwT5Xb1Pt",
+    "S4": "1cotKhHg3zFfFmc_EookACOuUR5Sl6ysY",
+    "S7": "1sJ-ylHUb7qhzR9kMz0cUQAdd2HE8mYfH"
+  },
+  "outputs_subfolders": {
+    "S0": "1QqmqzuX042cVLr-BMbUUNBcWjoSOqcxV",
+    "S1": "1vPDXZGbDG6KYy49xYpgTpy8ij6Q6mUZl",
+    "S2": "1L4fAbqo6LA4Zl2vT8nSjosTZpVVbPST6",
+    "S3": "1LIL5aTGtucFi9Sr5H_Wj_SNgNJLJxbNy",
+    "S4": "1u098XtSGlpN4x-epY3XisW8IIs9v53Je",
+    "S7": "1EOkBloAFgKes9qKGijXpj2RlbLZTHp2a"
+  }
+}
